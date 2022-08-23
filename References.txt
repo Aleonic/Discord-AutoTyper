@@ -1,0 +1,20 @@
+X ms * 1min/60,000 ms = Rand min
+X = Rand * 60,000
+references:
+https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html
+https://stackoverflow.com/questions/1248510/convert-string-to-keyevents
+https://www.geeksforgeeks.org/robot-class-java-awt/
+https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyEvent.html
+https://stackoverflow.com/questions/20598589/read-from-text-file-using-try-catch-blocks#
+https://stackoverflow.com/questions/16137713/how-do-i-run-a-java-program-from-the-command-line-on-windows
+https://courses.cs.washington.edu/courses/cse341/98au/java/jdk1.2beta4/docs/api/java/awt/event/KeyEvent.html
+https://stackoverflow.com/questions/14092625/keyevent-constants-in-java
+https://stackoverflow.com/questions/664896/get-the-vk-int-from-an-arbitrary-char-in-java
+https://docs.oracle.com/javase/7/docs/api/java/lang/Runtime.html#exec(java.lang.String[])
+http://www.avajava.com/tutorials/lessons/how-do-i-run-another-application-from-java.html
+https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyEvent.html
+https://stackoverflow.com/questions/15260282/converting-a-char-into-java-keyevent-keycode
+https://stackoverflow.com/questions/5887709/getting-random-numbers-in-java
+https://docs.oracle.com/javase/8/docs/api/java/util/Random.html
+https://howtodoinjava.com/java/io/java-write-to-file/
+https://coderanch.com/t/522717/java/replacing-content-file
